@@ -27,10 +27,9 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 
-Program to print the text “Hello World”.
-Developed by:
-Name : DIVYA PRIYA S
-Registeration Number : 212225240037
+### Program to print the text “Hello World”.
+### Developed by: DIVYA PRIYA S
+### Registeration Number : 212225240037
 
 
 ### MainActivity.java
